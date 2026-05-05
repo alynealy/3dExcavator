@@ -29,5 +29,5 @@ The strategic placement of pistons and pivots creates a "crowbar" effect, multip
 
 
 ## Inspiration
-https://www.youtube.com/watch?v=GflE-0c6UxU&list=PLWzCeZuJGbWwx3bjBzQrabaa4rii17YeK&index=6
-https://youtu.be/DsXGtcb_Nvk
+#### https://www.youtube.com/watch?v=GflE-0c6UxU&list=PLWzCeZuJGbWwx3bjBzQrabaa4rii17YeK&index=6
+#### https://youtu.be/DsXGtcb_Nvk
