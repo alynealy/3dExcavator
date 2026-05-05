@@ -25,8 +25,6 @@ The strategic placement of pistons and pivots creates a "crowbar" effect, multip
 | **Pivot Pins (Hinges)** | The "bolts" or axes that allow rotation between the different structural parts. |
 | **Arm Base** | The main support platform that holds the weight of the arm and serves as the primary anchor point. |
 
-### Component Diagram (Conceptual)
-
 
 ## Inspiration
 #### https://www.youtube.com/watch?v=GflE-0c6UxU&list=PLWzCeZuJGbWwx3bjBzQrabaa4rii17YeK&index=6
