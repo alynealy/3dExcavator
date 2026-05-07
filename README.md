@@ -22,8 +22,10 @@ The strategic placement of pistons and pivots creates a "crowbar" effect, multip
 | **Pistons (Actuators)** | The linear components that extend and contract to drive the movement of each segment. |
 | **Pivot Pins (Hinges)** | The "bolts" or axes that allow rotation between the different structural parts. |
 | **Arm Base** | The main support platform that holds the weight of the arm and serves as the primary anchor point. |
+| **Tires** | The tires of the arm based so that the excavator could move. |
 
 
 ## Inspiration
 #### https://www.youtube.com/watch?v=GflE-0c6UxU&list=PLWzCeZuJGbWwx3bjBzQrabaa4rii17YeK&index=6
 #### https://youtu.be/DsXGtcb_Nvk
+#### https://www.printables.com/model/873012-parametric-tire
